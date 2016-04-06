@@ -25,6 +25,7 @@ public class Main2Activity extends AppCompatActivity {
             }
         });
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        System.out.println("This is annoying");
     }
 
 }
